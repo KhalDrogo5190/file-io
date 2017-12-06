@@ -1,0 +1,14 @@
+Breakfast
+waffle
+egg
+bacon
+bagel
+cereal
+grits 
+oatmeal
+toast
+hashbrowns
+biscuit
+muffin
+sausage
+pancake
